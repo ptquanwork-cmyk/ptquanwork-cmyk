@@ -1,4 +1,7 @@
-<img src="assets/profile-banner.png" alt="Jayson / Pham The Quan — Finance thinking. Systems building. AI workflows." width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ptquanwork-cmyk/ptquanwork-cmyk/main/assets/profile-banner-mobile.png">
+  <img src="assets/profile-banner.png" alt="Jayson / Pham The Quan — Finance thinking. Systems building. AI workflows." width="100%">
+</picture>
 
 <p align="left">
   <a href="https://jayson-portfolio-sigma.vercel.app/"><strong>Portfolio ↗</strong></a> &nbsp; / &nbsp;
@@ -12,18 +15,48 @@ My work connects **business analysis, product thinking and hands-on execution**:
 
 ## Selected builds
 
-| Project | What I worked on | Explore |
-| :--- | :--- | :--- |
-| **QuickFish · Agent Workspace** | Frontend and user-flow support; agent role instructions, prompt structure, review checklists and handoff notes. Public aquarium workspace review build with architecture documentation. | [Source & architecture](https://github.com/ptquanwork-cmyk/quickfish-agent-workspace) · [Platform](https://quickfish.org/en) |
-| **Steersman · Business Systems** | Freelance delivery of an Odoo operating workspace and connected dashboard; Google Apps Script owner-facing finance input, consolidation, KPI reports and charts. | [Case studies](https://jayson-portfolio-sigma.vercel.app/) · [Brand website](https://steersman-site.vercel.app/en) |
-| **JayVault · Knowledge Workflow** | Personal Obsidian-based workflow for articles, videos and PDFs; markdown summaries, research notes and daily trend reports. | [Demo](https://jayvault.vercel.app/) · [Source](https://github.com/ptquanwork-cmyk/obsidian) |
-| **Autojob · Application Workbench** | Local application workflow using an evidence file, reviewer passes and document page fitting. Adapted from an open-source application-assistant workflow, credited in the repository. | [Source & setup](https://github.com/ptquanwork-cmyk/autojob) |
-| **Expara · Assessment Hub** | Venture assessment and program-design work organized into a browsable hub. An assessment project, with research and execution frameworks. | [Demo](https://expara.vercel.app/) · [Source](https://github.com/ptquanwork-cmyk/Expara) |
-| **BLOCK71 · Event Board** | A public information board for the Vietnam–Singapore innovation cooperation announcement on 29 May 2026. | [Demo](https://vercel-event-board.vercel.app/) |
+### 01 / QuickFish · Agent Workspace
+
+Frontend and user-flow support; agent role instructions, prompt structure, review checklists and handoff notes. Public aquarium workspace review build with architecture documentation.
+
+[Source & architecture](https://github.com/ptquanwork-cmyk/quickfish-agent-workspace) · [Platform](https://quickfish.org/en)
+
+### 02 / Steersman · Business Systems
+
+Freelance delivery of an Odoo operating workspace and connected dashboard; Google Apps Script owner-facing finance input, consolidation, KPI reports and charts.
+
+[Case studies](https://jayson-portfolio-sigma.vercel.app/) · [Brand website](https://steersman-site.vercel.app/en)
+
+### 03 / JayVault · Knowledge Workflow
+
+Personal Obsidian-based workflow for articles, videos and PDFs; markdown summaries, research notes and daily trend reports.
+
+[Demo](https://jayvault.vercel.app/) · [Source](https://github.com/ptquanwork-cmyk/obsidian)
+
+### 04 / Autojob · Application Workbench
+
+Local application workflow using an evidence file, reviewer passes and document page fitting. Adapted from an open-source application-assistant workflow, credited in the repository.
+
+[Source & setup](https://github.com/ptquanwork-cmyk/autojob)
+
+### 05 / Expara · Assessment Hub
+
+Venture assessment and program-design work organized into a browsable hub. An assessment project, with research and execution frameworks.
+
+[Demo](https://expara.vercel.app/) · [Source](https://github.com/ptquanwork-cmyk/Expara)
+
+### 06 / BLOCK71 · Event Board
+
+A public information board for the Vietnam–Singapore innovation cooperation announcement on 29 May 2026.
+
+[Demo](https://vercel-event-board.vercel.app/)
 
 ## How I work
 
-<img src="assets/workflow.png" alt="Workflow: understand the business problem, structure data and requirements, build an interface or automation, review and test, then deliver and document. Feedback returns to requirements." width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ptquanwork-cmyk/ptquanwork-cmyk/main/assets/workflow-mobile.png">
+  <img src="assets/workflow.png" alt="Workflow: understand the business problem, structure data and requirements, build an interface or automation, review and test, then deliver and document. Feedback returns to requirements." width="100%">
+</picture>
 
 - **Start with the problem:** map the user, the decision and the repeated task.
 - **Build with AI, review with evidence:** check facts, flows and outputs; make instructions and handoffs explicit.
@@ -40,7 +73,10 @@ My work connects **business analysis, product thinking and hands-on execution**:
 
 ## Public repository footprint
 
-<img src="assets/repository-footprint.png" alt="Snapshot on 9 October 2026: seven public repositories with a detected primary language. TypeScript two, HTML two, JavaScript two, Python one. Excludes empty repositories and this profile repository. Language labels describe repositories, not proficiency." width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ptquanwork-cmyk/ptquanwork-cmyk/main/assets/repository-footprint-mobile.png">
+  <img src="assets/repository-footprint.png" alt="Snapshot on 9 October 2026: seven public repositories with a detected primary language. TypeScript two, HTML two, JavaScript two, Python one. Excludes empty repositories and this profile repository. Language labels describe repositories, not proficiency." width="100%">
+</picture>
 
 <sub>Source: GitHub repository metadata, 9 Oct 2026. Counts use each repository’s primary language. They describe source composition, not skill ratings; private client work is outside this chart.</sub>
 
